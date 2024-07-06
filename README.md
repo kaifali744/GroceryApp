@@ -25,7 +25,7 @@ GroceryApp is an Android project designed to practice the concepts of RecyclerVi
 ## Screenshots
 - **Main Screen:**
 
-  ![Main Screen](./images/main_screen.png)
+  ![Main Screen](./images/main_screen.jpg)
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/kaifali744/GroceryApp.git`
